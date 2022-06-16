@@ -7,3 +7,11 @@
   padding: 10px;
   border-radius: 7px;
 }
+.inline-block-container {
+  background-color: coral;
+  padding: 25px;
+}
+.inline-block-container .post {
+  display: inline-block;
+  width: 30%;
+}
