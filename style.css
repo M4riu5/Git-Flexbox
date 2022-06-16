@@ -10,6 +10,8 @@
   justify-content: center;
   justify-content: space-between;
   justify-content: space-evenly;
+  /* Isdestymas statmena asimi */
+  align-items: flex-start;
   /* Gapa butinai teviniui elementui deti , Gapas sukuria tikslu tarpeli tarp elementu*/
   /* flex-wrap: wrap; */
 }
